@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Anexsoft/Node-Js-Socket.io-and-VueJs-realtime-CHAT#readme",
   "dependencies": {
+    "bulma": "^0.9.3",
     "express": "^4.17.1",
     "socket.io": "^2.3.0"
   },
